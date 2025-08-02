@@ -4,7 +4,7 @@ A Java project that shows multithreading through a virus spread simulation. Phon
 
 ## Demo Video
 
-Check out the simulation: [demo.mp4](demo.mp4)
+![Demo Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdzMDNuZ2x6bmhtdHNianJnbWdtdmxlOW1tN2xleGdmMWx6c2p4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t1q7R72BYpdZelvZgS/giphy.gif)
 
 ## What's This About?
 
